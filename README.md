@@ -19,10 +19,8 @@ This book covers the following exciting features:
 * Quantify and mitigate biases in data and ML models
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/Principles-Data-Science-beginners-essential-ebook/dp/B0CN38N125/ref=sr_1_6?crid=2VG8L68VL976S&keywords=Principles+of+Data+Science+packt&qid=1707105682&sprefix=principles+of+data+science+pa%2Caps%2C531&sr=8-6) today!
-
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
-
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter01.
 
@@ -36,14 +34,14 @@ The code will look like the following:
 If you are an aspiring novice data scientist eager to expand your knowledge, this book is for you. Whether you have basic math skills and want to apply them in the field of data science, or you excel in programming but lack the necessary mathematical foundations, you’ll find this book useful. Familiarity with Python programming will further enhance your learning experience.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
-### Software and Hardware List
+## Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | 1-15 | Python v3.4 or above |Windows, macOS, or Linux|
 
 
 
-### Related products
+## Related products
 * Building Data Science Applications with FastAPI - Second Edition [[Packt]](https://www.packtpub.com/product/building-data-science-applications-with-fastapi-second-edition/9781837632749) [[Amazon]](https://www.amazon.com/Building-Data-Science-Applications-FastAPI-ebook/dp/B0C9D1QYVX/ref=sr_1_1?crid=GYCBMA8PNOT1&keywords=Building+Data+Science+Applications+with+FastAPI+-+Second+Edition&qid=1707108626&sprefix=building+data+science+applications+with+fastapi+-+second+edition%2Caps%2C641&sr=8-1)
 
 * Python Deep Learning - Third Edition [[Packt]](https://www.packtpub.com/product/python-deep-learning-third-edition/9781837638505) [[Amazon]](https://www.amazon.com/Python-Deep-Learning-techniques-architectures/dp/1837638500/ref=sr_1_1?crid=2H710JTCXI2J5&keywords=Python+Deep+Learning+-+Third+Edition&qid=1707108735&sprefix=python+deep+learning+-+third+edition%2Caps%2C405&sr=8-1)
