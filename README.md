@@ -39,7 +39,8 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------ | ----------------------------------- |
 | 1-15 | Python v3.4 or above |Windows, macOS, or Linux|
 
-
+## Errata
+* Page 31 (Paragraph 6, line 1): **geometric mean, which is the square root of the product of all the values.** _should be_ **geometric mean, which is the nth root of the product of all the values.**
 
 ## Related products
 * Building Data Science Applications with FastAPI - Second Edition [[Packt]](https://www.packtpub.com/product/building-data-science-applications-with-fastapi-second-edition/9781837632749) [[Amazon]](https://www.amazon.com/Building-Data-Science-Applications-FastAPI-ebook/dp/B0C9D1QYVX/ref=sr_1_1?crid=GYCBMA8PNOT1&keywords=Building+Data+Science+Applications+with+FastAPI+-+Second+Edition&qid=1707108626&sprefix=building+data+science+applications+with+fastapi+-+second+edition%2Caps%2C641&sr=8-1)
